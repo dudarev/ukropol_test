@@ -1,0 +1,81 @@
+<h2><a href="/registration" style="color:red;text-decoration:underline;">зарегистрируйтесь</a></h2>
+
+<h1>Идея</h1>
+
+<p>
+"От идеи до прототипа за выходные" подобно <a href="http://hackday.ru/">http://hackday.ru/</a>.
+</p>
+
+<p>
+Первый проект — агрегатор твитов украинских политиков подобно <a href="http://www.folketwinget.dk/">http://www.folketwinget.dk/</a>.
+</p>
+
+<h1>Функционал</h1>
+
+<p>
+Задача минимум на первый день — повторить функционал датского сайта.
+</p>
+
+<p>
+Идеи для функционала на дальнейшее развития:
+i18n, OAuth, дигоподобное голосование за твиты, за самих политиков,
+визуализация на карте ... 
+</p>
+
+<p>
+Хочется чтобы еще получился агрегатор вопросов политикам с голосованием подобно <a href="http://president.pravda.com.ua/view_popular/">http://president.pravda.com.ua/view_popular/ </a>.
+</p>
+
+<h1>Время и место встречи</h1>
+
+<p>
+Суббота 10 октября, с 16:00 до 20:00.
+</p>
+
+<p>
+В лицее "Интелект" на проспекте Ильича 60. Стрелка на карте ниже показывает на дверь. Подняться на третий этаж. Первая дверь налево.
+</p>
+
+<p>
+<img src="http://maps.google.com/maps/api/staticmap?center=48.002802,37.846291&zoom=16&path=color:0x0000FF80|weight:5|48.00221,37.84672|48.00274,37.84668|48.00254,37.84629|48.00274,37.84668|48.00251,37.84706&size=500x300&sensor=false&key=ABQIAAAAjU0EJWnWPMv7oQ-jjS7dYxSPW5CJgpdgO_s4yyMovOaVh_KvvhSfpvagV18eOyDWu7VytS6Bi1CWxw" alt="пр. Ильича 60 напротив дворца спорта Дружба"/><br/>
+<a href="http://maps.google.com/?ie=UTF8&hq=&hnear=Donets%27k,+Ukraine&ll=48.002787,37.846763&spn=0.005973,0.019269&z=16">Ссылка на интерактивную карту</a>
+</p>
+
+<p>
+Добираться по проспекту Ильича автобусами или маршрутными такси 4, 4В, 13, 28, 46 (А, Б, В), 70, 107, 121, 207 или троллейбусами 4, 7, 11, 12 до остановки "Дворец спорта "Дружба".
+</p>
+
+<h1>Участники</h1>
+
+<p>
+Встреча открыта для всех желающих.
+</p>
+
+<p>
+Число участников ограничено 20. Обязательно <strong><a href="/registration">зарегистрируйтесь</a></strong>, чтобы участвовать.
+</p>
+
+<p>
+Пока желание кодить изъявили Артем Дударев, Влад Пранскевичус, Павел Резников. Константин Галайко обещал привести дизайнера.
+</p>
+
+<h1>Обсуждение</h1>
+
+Происходит в <a href="http://groups.google.com/group/cnc-donetsk/">группе донецкого "кофе и кода"</a> (<a href="http://groups.google.com/group/cnc-donetsk/browse_thread/thread/c37cdd599f457d37">одна дискуссия</a>, где обсуждалось, <a href="http://groups.google.com/group/cnc-donetsk/browse_thread/thread/af6eb0b913dc1410">еще одна</a>).
+
+<h1>Ссылки</h1>
+
+<ul>
+<li>Сейчас это приложение бегает на движке <a href="http://gutecms.appspot.com/">GuteCMS</a>.
+<li>Дла затравки будем форкать код проекта <a href="http://github.com/steffentchr/twitterengine">twitterengine</a>.
+<li>На нем бегает <a href="http://www.folketwinget.dk/">агрегатор твитов датских политиков</a>.
+<li>Приложение на Google App Engine. <a href="http://code.google.com/appengine/docs/">Документация</a> (будем использовать Python).
+<li>Будем использовать git для контроля версий, поэтому имеет смысл посмотреть книгу <a href="http://progit.org/">Pro Git</a> (<a href="http://progit.org/book/ru/">русский перевод</a> в процессе).
+<li><a href="http://makeyjl.blogspot.com/2009/02/using-djangos-i18n-in-google-app-engine.html">Пост в блоге о i18n в GAE</a>.
+<li><a href="http://apiwiki.twitter.com/Twitter-REST-API-Method:-oauth-authorize">OAuth в твиттере вообще</a>.
+<li><a href="http://github.com/tav/tweetapp">И в GAE в частности</a>.
+</ul>
+
+<h1>Редактировать страницу</h1>
+
+Напишите о своем желании Артему или в группу, чтобы вас добавили в редакторы, и жмите <a href="http://ukropol.appspot.com/edit">сюда</a>.
